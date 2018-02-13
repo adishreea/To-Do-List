@@ -6,6 +6,6 @@ HTML, CSS, Javascript with jQuery
 
 
 Libraries used:
-*Google Fonts* for fonts
-*UI Gradients* for background color gradients
-*Font Awesome* for icons
+*Google Fonts* for fonts.
+*UI Gradients* for background color gradients.
+*Font Awesome* for icons.
