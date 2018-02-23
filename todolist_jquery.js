@@ -39,6 +39,6 @@ $("input[type='text']").keypress(function(event){
 
 });
 
-$(".fas").click(function(){
+$('#plus').on('click', function(){
 	$("input[type='text']").fadeToggle();
 });
